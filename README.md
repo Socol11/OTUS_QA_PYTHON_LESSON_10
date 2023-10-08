@@ -1,0 +1,2 @@
+# SELENIUM_PYTHON_OTUS_08102023
+Selenium project
